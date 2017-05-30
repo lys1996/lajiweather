@@ -1,7 +1,9 @@
-package com.lajiweather.android;
+package com.lajiweather.android.acticity;
 
 import android.app.Activity;
 import android.os.Bundle;
+
+import com.lajiweather.android.R;
 
 public class MainActivity extends Activity {
 
